@@ -39,7 +39,7 @@ li a.nav {
   padding: 14px 16px;
   text-decoration: none;
 }
-li a:hover {
+li a.nav:hover {
   background-color: #111;
 }
 .active {
@@ -49,8 +49,8 @@ ul.nav {
   position: fixed;
   top: 0;
 }
-ul {
-    list-style-type: none;
+ul.notnav {
+  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow:hidden;
@@ -63,7 +63,6 @@ table {
   border-collapse: collapse;
   width: 100%;
   position: fixed;
-  
 }
 
 td, th {
