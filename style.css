@@ -20,7 +20,7 @@ p{
   margin-right: auto;
   width: 70%;
 }
-ul.nav {
+  ul.nav {
   width: 100%;
   display:inline;
   list-style-type: none;
@@ -31,7 +31,7 @@ ul.nav {
   position: fixed;
   top: 0;
 } 
-li.nav a {
+ li.nav a {
   display:inline;
  float:left;
   text-align: center;
