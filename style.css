@@ -21,6 +21,7 @@ p{
   width: 70%;
 }
 nav ul {
+  display:inline;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -33,6 +34,7 @@ nav li {
   float:left;
 }
 nav li a {
+  display:inline;
   display: block;
   text-align: center;
   color: white;
@@ -50,6 +52,7 @@ nav ul {
   top: 0;
 }
 notnav ul {
+  display:inline;
   list-style-type: none;
   margin: 0;
   padding: 0;
