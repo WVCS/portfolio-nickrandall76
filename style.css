@@ -39,9 +39,9 @@ li.nav a {
   padding: 14px 16px;
   text-decoration: none;
 }
-/* li a:hover {
+ li a:hover {
   background-color: #111;
-} */
+} 
 .active {
   background-color:#507DBC;
 }
