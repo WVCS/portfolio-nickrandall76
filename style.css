@@ -32,14 +32,14 @@ li.nav {
   display:inline;
   float:left;
 }
-li a.nav {
+li a {
   display: block;
   text-align: center;
   color: white;
   padding: 14px 16px;
   text-decoration: none;
 }
-li a.nav:hover {
+li a:hover {
   background-color: #111;
 }
 .active {
