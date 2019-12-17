@@ -20,7 +20,7 @@ p{
   margin-right: auto;
   width: 70%;
 }
-ul {
+ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -28,11 +28,11 @@ ul {
   background-color:#333;
 }
 
-li {
+li.nav {
   display:inline;
   float:left;
 }
-li a {
+li a.nav {
     display: block;
   color: white;
   text-align: center;
