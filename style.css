@@ -32,7 +32,7 @@ nav li {
   display:inline;
   float:left;
 }
-li a {
+nav li a {
   display: block;
   text-align: center;
   color: white;
